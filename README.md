@@ -10,13 +10,10 @@ What is CNinecoin?
 ----------------
 
 CNinecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 3 minute block targets
+ - subsidy halves in 20k blocks
+ - ~350 thousand total coins
+ - 35 coins per block
 
 For more information, as well as an immediately useable, binary version of
 the CNinecoin client sofware, see http://www.cninecoin.org.
@@ -45,7 +42,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/cninecoin-project/cninecoin/tags) are created
+completely stable. [Tags](https://github.com/MathewCornelius/cninecoin/tags) are created
 regularly to indicate new official, stable release versions of CNinecoin.
 
 Testing
